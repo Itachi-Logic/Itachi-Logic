@@ -120,13 +120,13 @@ Currently enhancing my skills at **1337 Coding School** (42 Network), mastering 
     </tr>
     <tr>
       <td><a href='https://itachi-logic.github.io/staylix-2/'>staylix-2</a></td>
-      <td>HTML, CSS, SASS</td>
-      <td>Responsive design with advanced CSS techniques</td>
+      <td>HTML, CSS</td>
+      <td>Responsive design</td>
     </tr>
     <tr>
       <td><a href='https://itachi-logic.github.io/staylix-3/'>staylix-3</a></td>
-      <td>HTML, CSS, Tailwind</td>
-      <td>Modern UI with utility-first CSS framework</td>
+      <td>HTML, CSS</td>
+      <td>Modern UI with utility-first</td>
     </tr>
   </tbody>
 </table>
