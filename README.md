@@ -39,6 +39,20 @@ const itachi = {
 - 🌙 Night owl coder
 - 💻 131+ C files written and counting
 
+</td>
+<td width="50%" valign="top">
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/KanekiEzz/KanekiEzz/main/hello/anime.gif" width="300px" alt="Coding Animation"/>
+  
+  <br><br>
+  
+  <!-- 42 School Badge -->
+  <a href="https://github.com/oakoudad/badge42">
+    <img src="https://badge.mediaplus.ma/kettlebells/ILogic" alt="42 School Badge" />
+  </a>
+  
+  <br><br>
   
   <!-- Stats Badges -->
   <img src="https://komarev.com/ghpvc/?username=Itachi-Logic&color=00FF41&style=for-the-badge" alt="Profile Views" />
