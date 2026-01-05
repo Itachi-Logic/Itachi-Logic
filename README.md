@@ -82,12 +82,6 @@ const itachi = {
 
 ---
 
-<!-- GitHub Stats -->
-<div align="center">
-  <img width="45%" align="right" alt="Coding Animation" src="https://raw.githubusercontent.com/KanekiEzz/KanekiEzz/main/hello/klad_753.gif" />
-  
-  <br><br><br>
-
 
 <!-- GitHub Contribution Graph -->
 <p align="center">
