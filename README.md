@@ -82,43 +82,6 @@ const itachi = {
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-    <!-- C  -->
-    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" />
-    </a>
-    <!-- C++ -->
-    <a href="https://www.cplusplus.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" />
-    </a>
-    <!-- linux -->
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-        <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux"  width="40" height="40" /> 
-    </a> 
-    <!-- vim -->
-    <a href="https://www.vim.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" alt="vim" width="40" height="40" />
-    </a>
-    <!-- git -->
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
-    </a>
-    <!-- gcc -->
-    <a href="https://gcc.gnu.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gcc/gcc-original.svg" alt="gcc" width="40" height="40" />
-    </a>
-    <!-- docker -->
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40" />
-    </a>
-    <!-- makefile -->
-    <a href="https://www.gnu.org/software/make/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/make/make-original.svg" alt="make" width="40" height="40" />
-    </a>
-</p>
-
-<br>
 <!-- GitHub Stats -->
 <div align="center">
   <img width="45%" align="right" alt="Coding Animation" src="https://raw.githubusercontent.com/KanekiEzz/KanekiEzz/main/hello/klad_753.gif" />
