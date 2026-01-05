@@ -90,15 +90,6 @@ const itachi = {
 
 ---
 
-<!-- Trophy -->
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Itachi-Logic&theme=tokyonight&no-frame=true&row=1&column=7" alt="trophy" />
-  </a>
-</p>
-
----
-
 <a href="#">
     <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=120&section=footer" />
 </a>
