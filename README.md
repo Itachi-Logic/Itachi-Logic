@@ -47,13 +47,6 @@ const itachi = {
   
   <br><br>
   
-  <!-- 42 School Badge -->
-  <a href="https://github.com/oakoudad/badge42">
-    <img src="https://badge.mediaplus.ma/kettlebells/ILogic" alt="42 School Badge" />
-  </a>
-  
-  <br><br>
-  
   <!-- Stats Badges -->
   <img src="https://komarev.com/ghpvc/?username=Itachi-Logic&color=00FF41&style=for-the-badge" alt="Profile Views" />
 </div>
