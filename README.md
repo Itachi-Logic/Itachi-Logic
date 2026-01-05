@@ -43,7 +43,7 @@ const itachi = {
 <td width="50%" valign="top">
 
 <div align="center">
-  <img src="https://www.reddit.com/r/PixelArt/comments/zi79au/itachi_fireball_jutsu_gif/#lightbox" width="300px" alt="Coding Animation"/>
+  <img src="https://media.tenor.com/TwXyz8OMEsEAAAAM/itachi-uchiha-uchiha.gif" width="300px" alt="Coding Animation"/>
   
   <br><br>
   
