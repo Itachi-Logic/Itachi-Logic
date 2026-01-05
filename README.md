@@ -43,7 +43,7 @@ const itachi = {
 <td width="50%" valign="top">
 
 <div align="center">
-  <img src="https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fsteamartwork.com%2Fshop%2Fitachi-steam-artwork-design%2F&ved=0CBQQjRxqFwoTCPj34pyA9ZEDFQAAAAAdAAAAABB3&opi=89978449" width="300px" alt="Coding Animation"/>
+  <img src="https://uglumend.artstation.com/projects/XnWwAn" width="300px" alt="Coding Animation"/>
   
   <br><br>
   
