@@ -38,6 +38,7 @@ const itachi = {
 - ☕ Coffee-driven debugging sessions
 - 🌙 Night owl coder
 - 💻 131+ C files written and counting
+  [C challenges](https://itachi-logic.github.io/c-challenges-solved/)
 
 </td>
 <td width="50%" valign="top">
