@@ -48,7 +48,7 @@ const itachi = {
   <br><br>
   
   <!-- Stats Badges -->
-  <img src="https://komarev.com/ghpvc/?username=Itachi-Logic&color=00FF41&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Itachi-Logic&color=ff0000&style=for-the-badge" alt="Profile Views" />
 </div>
 
 </td>
@@ -78,5 +78,5 @@ const itachi = {
 ---
 
 <a href="#">
-    <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=120&section=footer" />
+    <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=120&section=footer" />
 </a>
