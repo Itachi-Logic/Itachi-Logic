@@ -56,8 +56,8 @@ const itachi = {
 </table>
 
 ---
-### 🌐 View: 
-[C challenges](https://itachi-logic.github.io/c-challenges-solved/)
+### 🌐 View: [C challenges](https://itachi-logic.github.io/c-challenges-solved/)
+
 - ⚡ Fun fact **I can spend hours debugging just one segmentation fault**
 - 🍀 Are you a C compiler? Because you complete me
 
