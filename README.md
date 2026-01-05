@@ -32,8 +32,7 @@ const itachi = {
 - 🌱 Exploring **System Design** and **Memory Management**
 - 👥 Contributing to open source projects
 - 📚 Learning from Dennis Ritchie's legacy
-### 🌐 View: 
-[C challenges](https://itachi-logic.github.io/c-challenges-solved/)
+
 ### 🎮 Fun Facts
 - 🧩 Love solving the N-Queens puzzle
 - ☕ Coffee-driven debugging sessions
@@ -57,7 +56,8 @@ const itachi = {
 </table>
 
 ---
-
+### 🌐 View: 
+[C challenges](https://itachi-logic.github.io/c-challenges-solved/)
 - ⚡ Fun fact **I can spend hours debugging just one segmentation fault**
 - 🍀 Are you a C compiler? Because you complete me
 
