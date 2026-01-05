@@ -43,7 +43,7 @@ const itachi = {
 <td width="50%" valign="top">
 
 <div align="center">
-  <img src="https://uglumend.artstation.com/projects/XnWwAn" width="300px" alt="Coding Animation"/>
+  <img src="https://cdna.artstation.com/p/assets/images/images/083/749/292/original/uglumend-render-f-itachi.gif?1736706865" width="300px" alt="Coding Animation"/>
   
   <br><br>
   
