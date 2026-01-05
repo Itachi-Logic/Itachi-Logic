@@ -32,13 +32,13 @@ const itachi = {
 - 🌱 Exploring **System Design** and **Memory Management**
 - 👥 Contributing to open source projects
 - 📚 Learning from Dennis Ritchie's legacy
-
+### 🌐 View: 
+[C challenges](https://itachi-logic.github.io/c-challenges-solved/)
 ### 🎮 Fun Facts
 - 🧩 Love solving the N-Queens puzzle
 - ☕ Coffee-driven debugging sessions
 - 🌙 Night owl coder
 - 💻 131+ C files written and counting
-  [C challenges](https://itachi-logic.github.io/c-challenges-solved/)
 
 </td>
 <td width="50%" valign="top">
