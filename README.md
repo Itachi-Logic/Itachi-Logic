@@ -1,5 +1,5 @@
 <a href="#">
-    <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#ff0000&height=140&section=header" />
+    <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#ff1a1a&height=140&section=header" />
 </a>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF41&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Itachi-Logic;I'm+from+Morocco;Student+at+42+School;C+Programming+Enthusiast;Problem+Solving+Addict;Welcome+to+My+World!+%E3%80%9C)
