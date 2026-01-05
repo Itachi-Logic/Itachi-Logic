@@ -88,24 +88,6 @@ const itachi = {
   
   <br><br><br>
 
-  <!-- LeetCode Stats -->
-  <img src="https://leetcard.jacoblin.cool/Itachi-Logic?theme=unicorn&font=source_code_pro&ext=activity" alt="LeetCode Stats" />
-</div>
-
-<br><br><br><br><br><br>
-
----
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Itachi-Logic&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Itachi-Logic&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=c9d1d9"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Itachi-Logic&theme=tokyonight&hide_border=true&background=0D1117&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" alt="GitHub Streak" />
-</div>
-
-<br>
 
 <!-- GitHub Contribution Graph -->
 <p align="center">
