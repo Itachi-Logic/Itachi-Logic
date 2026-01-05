@@ -1,56 +1,61 @@
-<a href="https://github.com/Itachi-Logic">
-    <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=120&section=header" />
+<a href="#">
+    <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=140&section=header" />
 </a>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00FF41&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Itachi-Logic;Mastering+C+Programming;1337+Student+-+Morocco;Algorithm+%26+Data+Structure+Enthusiast;Transforming+Logic+into+Code" alt="Typing SVG" />
-</p>
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF41&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Itachi-Logic;I'm+from+Morocco;Student+at+42+School;C+Programming+Enthusiast;Problem+Solving+Addict;Welcome+to+My+World!+%E3%80%9C)
 
-<!-- Main content layout -->
+---
+
+<!-- Main content with better layout -->
 <table width="100%">
 <tr>
-<td width="55%" valign="top">
+<td width="50%" valign="top">
 
-## 🎯 Profile.c
+## 🎯 About Me
 
 ```c
-#include <itachi_logic.h>
-
-developer_t me = {
-    .name = "Itachi-Logic",
-    .location = "Morocco 🇲🇦",
-    .school = "1337 (42 Network)",
-    .focus = "C / System Programming",
-    .skills = {"Algorithms", "Data Structures", "Unix"},
-    .motto = "Truth is found in the code."
+const itachi = {
+    username: "Itachi-Logic",
+    location: "Morocco 🇲🇦",
+    role: "42 School Student",
+    education: "1337 Morocco",
+    currentFocus: "C Programming & System Design",
+    interests: ["Algorithms", "Data Structures", "Open Source"],
+    motto: "The only way to learn programming is by writing programs",
+    favorite_quote: "Code is poetry written for machines"
 };
 ```
 
-### 🌟 Current Missions
-- 🔥 Solving **C Challenges** and mastering the Piscine
-- 🚀 Deep diving into **Memory Management** & Pointers
-- 🌱 Building efficient **Sorting Algorithms**
-- 👥 Open to collaborating on low-level projects
-- 📚 Continuous learning at the 1337 Peer-learning environment
+### 🌟 What I'm Up To
+- 🔥 Mastering **C Programming** at 42 School
+- 🚀 Solving algorithmic challenges daily
+- 🌱 Exploring **System Design** and **Memory Management**
+- 👥 Contributing to open source projects
+- 📚 Learning from Dennis Ritchie's legacy
 
 ### 🎮 Fun Facts
-- 🧩 I see the world in `Big O` notation
-- 🎨 Code aesthetics and Norminette are my best friends
-- ☕ Powered by caffeine and infinite loops
-- 🌙 Debugging is my form of meditation
+- 🧩 Love solving the N-Queens puzzle
+- ☕ Coffee-driven debugging sessions
+- 🌙 Night owl coder
+- 💻 131+ C files written and counting
 
 </td>
-<td width="45%" valign="top">
+<td width="50%" valign="top">
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Itachi-Logic/Itachi-Logic/main/coding.gif" width="300px" onerror="this.src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXZ6ZzR0ZzR0ZzR0ZzR0ZzR0ZzR0ZzR0ZzR0ZzR0ZzR0JmcmVzaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif'" alt="Coding Animation"/>
+  <img src="https://raw.githubusercontent.com/KanekiEzz/KanekiEzz/main/hello/anime.gif" width="300px" alt="Coding Animation"/>
   
   <br><br>
   
   <!-- 42 School Badge -->
-  <a href="https://github.com/Itachi-Logic">
-    <img src="https://img.shields.io/badge/1337-Student-00FF41?style=for-the-badge&logo=42&logoColor=white" alt="1337 Badge" />
+  <a href="https://github.com/oakoudad/badge42">
+    <img src="https://badge.mediaplus.ma/kettlebells/ILogic" alt="42 School Badge" />
   </a>
+  
+  <br><br>
+  
+  <!-- Stats Badges -->
+  <img src="https://komarev.com/ghpvc/?username=Itachi-Logic&color=00FF41&style=for-the-badge" alt="Profile Views" />
 </div>
 
 </td>
@@ -59,75 +64,109 @@ developer_t me = {
 
 ---
 
-<h3 align="left">Connect with the Shinobi:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://www.linkedin.com/in/said-boutayeb/" target="blank"><img align="center"
+    <a href="https://www.linkedin.com/in/itachi-logic" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-            alt="Said Boutayeb" height="30" width="40" /></a>
-    <a href="https://github.com/Itachi-Logic" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg"
+            alt="Itachi-Logic" height="30" width="40" /></a>
+    <a href="https://twitter.com/ItachiLogic" target="blank"><img align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
+            alt="Itachi-Logic" height="30" width="40" /></a>
+    <a href="https://instagram.com/itachi.logic" target="blank"><img align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
             alt="Itachi-Logic" height="30" width="40" /></a>
 </p>
 
-<p>
-    - ⚡ Fun fact: **If the code works, it's just the beginning of optimization.**
-    - 🍀 Logic is the only thing that doesn't lie.
-</p>
+- ⚡ Fun fact **I can spend hours debugging just one segmentation fault**
+- 🍀 Are you a C compiler? Because you complete me
 
-<h3 align="left">Forge & Tools:</h3>
+---
+
+<h3 align="left">Languages and Tools:</h3>
 <p align="left">
     <!-- C  -->
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="45" height="45" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" />
+    </a>
+    <!-- C++ -->
+    <a href="https://www.cplusplus.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" />
     </a>
     <!-- linux -->
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="45" height="45" /> 
+        <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux"  width="40" height="40" /> 
     </a> 
-    <!-- Vim -->
+    <!-- vim -->
     <a href="https://www.vim.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" alt="vim" width="45" height="45" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" alt="vim" width="40" height="40" />
     </a>
     <!-- git -->
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="45" />
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
     </a>
-    <!-- Bash -->
-    <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="45" height="45" />
-    </a>
-    <!-- GCC -->
+    <!-- gcc -->
     <a href="https://gcc.gnu.org/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/gnu/gnu-icon.svg" alt="gcc" width="45" height="45" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gcc/gcc-original.svg" alt="gcc" width="40" height="40" />
+    </a>
+    <!-- docker -->
+    <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40" />
+    </a>
+    <!-- makefile -->
+    <a href="https://www.gnu.org/software/make/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/make/make-original.svg" alt="make" width="40" height="40" />
     </a>
 </p>
 
 <br>
-
+<!-- GitHub Stats -->
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/Itachi-Logic?theme=dark&font=orbitron&ext=activity" alt="LeetCode Stats" />
+  <img width="45%" align="right" alt="Coding Animation" src="https://raw.githubusercontent.com/KanekiEzz/KanekiEzz/main/hello/klad_753.gif" />
+  
+  <br><br><br>
+
+  <!-- LeetCode Stats -->
+  <img src="https://leetcard.jacoblin.cool/Itachi-Logic?theme=unicorn&font=source_code_pro&ext=activity" alt="LeetCode Stats" />
 </div>
 
-<br><br>
+<br><br><br><br><br><br>
 
 ---
+
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Itachi-Logic&show_icons=true&theme=matrix&include_all_commits=true&count_private=true&hide_border=true&title_color=00FF41&icon_color=00FF41&text_color=e0e0e0&bg_color=0a0a0a"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Itachi-Logic&layout=compact&langs_count=8&theme=matrix&hide_border=true&title_color=00FF41&text_color=e0e0e0&bg_color=0a0a0a"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Itachi-Logic&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Itachi-Logic&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=c9d1d9"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Itachi-Logic&theme=matrix&hide_border=true&background=0a0a0a&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Itachi-Logic&theme=tokyonight&hide_border=true&background=0D1117&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" alt="GitHub Streak" />
 </div>
 
 <br>
 
+<!-- GitHub Contribution Graph -->
 <p align="center">
-  <a href="https://github.com/Itachi-Logic">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Itachi-Logic&bg_color=0a0a0a&color=00FF41&line=00FF41&point=ffffff&area=true&hide_border=true" alt="GitHub Contribution Graph">
+  <a href="https://github.com/Itachi-Logic;">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Itachi-Logic&bg_color=0a0a0f&color=00FF41&line=00FF41&point=00FF41&area=true&hide_border=true" alt="GitHub Contribution Graph">
   </a>
 </p>
 
-<a href="https://github.com/Itachi-Logic">
+<!-- Snake Animation -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</p>
+
+---
+
+<!-- Trophy -->
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Itachi-Logic&theme=tokyonight&no-frame=true&row=1&column=7" alt="trophy" />
+  </a>
+</p>
+
+---
+
+<a href="#">
     <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=120&section=footer" />
 </a>
