@@ -57,7 +57,7 @@ const itachi = {
 
 ---
 ### 🌐 View: [C challenges](https://itachi-logic.github.io/c-challenges-solved/)
-![image](https://private-user-images.githubusercontent.com/108984952/532140012-a14c816b-5083-47f6-b80d-c1a2674f0aae.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Njc2NTE5MDIsIm5iZiI6MTc2NzY1MTYwMiwicGF0aCI6Ii8xMDg5ODQ5NTIvNTMyMTQwMDEyLWExNGM4MTZiLTUwODMtNDdmNi1iODBkLWMxYTI2NzRmMGFhZS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwMTA1JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDEwNVQyMjIwMDJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT02MDAzMzUzZmYwZDg5YzRjOGEyOWQwM2Q5ZDZhMjYyMDA1NjlhY2FmYzE5NmE1ODdmMjViMmVlM2I3Y2E0MmU2JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.74G5gqh-CQtV52RaHQoBYpvo_ltyU7SmbVxuh9Cgt9s)
+![image]()
 - ⚡ Fun fact **I can spend hours debugging just one segmentation fault**
 - 🍀 Are you a C compiler? Because you complete me
 
