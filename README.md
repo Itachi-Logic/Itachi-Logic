@@ -3,6 +3,8 @@
 </a>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff0000&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Itachi-Logic;I'm+from+Morocco;Student+at+42+School;C+Programming+Enthusiast;Problem+Solving+Addict;Welcome+to+My+World!+%E3%80%9C)
+ <br>
+<video src="https://github.com/Itachi-Logic/Itachi-Logic/assets/108984952/532553191-2b1e8e09-8411-4d2b-8504-c38d61222737" width="200" controls style="margin-bottom: -10px;"></video>
 
 ---
 
