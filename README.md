@@ -46,7 +46,7 @@ const itachi = {
 <div align="center">
   <img src="https://media.tenor.com/TwXyz8OMEsEAAAAM/itachi-uchiha-uchiha.gif" width="300px" alt="Coding Animation"/>
    <br>
-<video src="https://github.com/Itachi-Logic/Itachi-Logic/assets/108984952/532553191-2b1e8e09-8411-4d2b-8504-c38d61222737" width="200" controls style="margin-bottom: -10px;"></video>
+<video src="https://github.com/Itachi-Logic/Itachi-Logic/assets/108984952/532553191-2b1e8e09-8411-4d2b-8504-c38d61222737" width="60" controls style="margin-bottom: -10px;"></video>
   <br><br>
   
   <!-- Stats Badges -->
