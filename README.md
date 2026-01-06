@@ -57,7 +57,7 @@ const itachi = {
 
 ---
 ### 🌐 View: [C challenges](https://itachi-logic.github.io/c-challenges-solved/)
-![image](https://github.com/Itachi-Logic/Itachi-Logic/issues/1)
+![image](https://github.com/Itachi-Logic/Itachi-Logic/issues/1#issue-3783015802)
 - ⚡ Fun fact **I can spend hours debugging just one segmentation fault**
 - 🍀 Are you a C compiler? Because you complete me
 
