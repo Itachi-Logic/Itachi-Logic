@@ -35,7 +35,7 @@ const itachi = {
 - 📚 Learning from Dennis Ritchie's legacy
 
 ### 🎮 Fun Facts
-- 🧩 Love solving the N-Queens puzzle
+- 🧩 Love solving difficult problems
 - ☕ Coffee-driven debugging sessions
 - 🌙 Night owl coder
 - 💻 131+ C files written and counting
