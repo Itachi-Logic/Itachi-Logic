@@ -18,6 +18,7 @@
 const itachi = {
     username: "Itachi-Logic",
     location: "Morocco 🇲🇦",
+    email: "saidnaruto115@gmail.com",
     role: "42 School Student",
     education: "1337 Morocco",
     currentFocus: "C Programming & System Design",
