@@ -78,6 +78,10 @@ const itachi = {
 </p>
 
 ---
+<div align="center">
+  <video src="https://github.com/user-attachments/assets/2b1e8e09-8411-4d2b-8504-c38d61222737" width="180" controls></video>
+  <br>
+</div>
 
 <a href="#">
     <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=120&section=footer" />
