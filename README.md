@@ -61,7 +61,9 @@ const itachi = {
 ![image](https://github.com/user-attachments/assets/a14c816b-5083-47f6-b80d-c1a2674f0aae)
 - ⚡ Fun fact **I can spend hours debugging just one segmentation fault**
 - 🍀 Are you a C compiler? Because you complete me
-
+---
+### 🌐 View: [Days_Piscine](https://itachi-logic.github.io/c-challenges-solved/days_piscine/)
+![image](https://github.com/user-attachments/assets/c4347057-f09a-4c3e-bb55-880e23dcf99b)
 ---
 
 
