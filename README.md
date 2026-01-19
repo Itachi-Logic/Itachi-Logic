@@ -64,7 +64,7 @@ const itachi = {
 - 🍀 Are you a C compiler? Because you complete me
 ---
 ### 🌐 View: [Days_Piscine](https://itachi-logic.github.io/c-challenges-solved/days_piscine/)
-![image](https://github.com/user-attachments/assets/c52fc71d-21a3-45c8-adf9-e3730a71fba6)
+![image](https://github.com/user-attachments/assets/ad2ca6eb-f5c4-4824-96f8-1cbff066176f)
 
 ---
 
