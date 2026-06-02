@@ -45,7 +45,7 @@ const itachi = {
 <td width="50%" valign="top">
 
 <div align="center">
-  <img src="https://itunes.apple.com/app/apple-store/id917932200?pt=39040802&ct=Media1GIFV2&mt=8" width="300px" alt="Coding Animation"/>
+  <img src="https://c.tenor.com/8ENvmQg0pIMAAAAd/tenor.gif" width="300px" alt="Coding Animation"/>
   <br><br>
   
   <!-- Stats Badges -->
