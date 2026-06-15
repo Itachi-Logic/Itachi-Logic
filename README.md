@@ -16,7 +16,7 @@
 
 ```c
 const itachi = {
-    username: "Said | Itachi-Logic",
+    username: "Itachi-Logic",
     location: "Morocco 🇲🇦",
     email: "saidnaruto115@gmail.com",
     role: "42 School Student",
@@ -39,7 +39,6 @@ const itachi = {
 - 🧩 Love solving difficult problems
 - ☕ Coffee-driven debugging sessions
 - 🌙 Night owl coder
-- 💻 131+ C files written and counting
 
 </td>
 <td width="50%" valign="top">
@@ -57,17 +56,6 @@ const itachi = {
 </table>
 
 ---
-### 🌐 View: [C challenges](https://itachi-logic.github.io/c-challenges-solved/)
-![image](https://github.com/user-attachments/assets/a14c816b-5083-47f6-b80d-c1a2674f0aae)
-
-- ⚡ Fun fact **I can spend hours debugging just one segmentation fault**
-- 🍀 Are you a C compiler? Because you complete me
----
-### 🌐 View: [Days_Piscine](https://itachi-logic.github.io/c-challenges-solved/days_piscine/)
-![image](https://github.com/user-attachments/assets/ad2ca6eb-f5c4-4824-96f8-1cbff066176f)
-
----
-
 
 <!-- GitHub Contribution Graph -->
 <p align="center">
