@@ -18,7 +18,7 @@ const itachi = {
     activeMission: "1337 Piscine & CompTIA Net+ Prep",
     latestProject: "c-challenges-solved",
     interests: ["Algorithms", "Backtracking", "Blockchain"],
-    favorite_quote: "Pointers are my compass, logic is my path."};
+    favorite_quote: "Simplicity is the ultimate sophistication."};
 ```
 
 ### 🌟 What I'm Up To
