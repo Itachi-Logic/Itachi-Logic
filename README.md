@@ -1,7 +1,7 @@
 <!-- Main content with better layout -->
 <table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="40%" valign="top">
 
 ## 🎯 About Me
 
