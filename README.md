@@ -1,7 +1,7 @@
 <!-- Main content with better layout -->
-<table width="20%">
+<table width="100%">
 <tr>
-<td width="20%" valign="top">
+<td width="100%" valign="top">
 
 ## 🎯 About Me
 
@@ -32,7 +32,7 @@ const itachi = {
 - 🌙 Night owl coder
 
 </td>
-<td width="80%" valign="top">
+<td width="100%" valign="top">
 
 <div align="center">
   <img src="https://media.tenor.com/TwXyz8OMEsEAAAAM/itachi-uchiha-uchiha.gif" width="300px" alt="Coding Animation"/>
