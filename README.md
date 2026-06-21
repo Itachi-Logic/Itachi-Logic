@@ -59,12 +59,6 @@ const itachi = {
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Itachi-Logic&bg_color=0a0a0f&color=ff0000&line=00FF41&point=00FF41&area=true&hide_border=true" alt="GitHub Contribution Graph">
   </a>
 </p>
-
-<!-- Snake Animation -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</p>
-
 ---
 
 <a href="#">
