@@ -14,8 +14,6 @@ const itachi = {
     education: "1337 Morocco",
     currentFocus: "C Programming & System Design",
     interests: ["Algorithms", "Data Structures"],
-    motto: "The only way to learn programming is by:,
-    writing programs",
     favorite_quote: "Code is poetry written for machines"
 };
 ```
