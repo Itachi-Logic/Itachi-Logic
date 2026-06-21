@@ -1,7 +1,5 @@
-
-
 <!-- Main content with better layout -->
-<table width="100%">
+<table width="90%">
 <tr>
 <td width="50%" valign="top">
 
