@@ -7,7 +7,7 @@
 
 ```c
 const itachi = {
-    username: "Itachi-Logic",
+    username: "Vellox",
     location: "Morocco 🇲🇦",
     email: "saidnaruto115@gmail.com",
     role: "Aspiring DevOps & 1337 Candidate",
