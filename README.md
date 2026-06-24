@@ -7,7 +7,7 @@
 
 ```c
 const itachi = {
-    username: "Vellox",
+    username: "Velloxide",
     location: "Morocco 🇲🇦",
     email: "saidnaruto115@gmail.com",
     role: "Aspiring DevOps & 1337 Candidate",
@@ -17,7 +17,7 @@ const itachi = {
     terminalSetup: ["Kitty", "Tmux", "Neovim", "Fish"],
     activeMission: "1337 Piscine & CompTIA Net+ Prep",
     latestProject: "c-challenges-solved",
-    interests: ["Algorithms", "Backtracking", "Blockchain"],
+    interests: ["Algorithms", "Backtracking"],
     favorite_quote: "Reality is a well-coded genjutsu. ( ͡° ͜ʖ ͡°)﻿"
 };
 ```
